@@ -22,5 +22,5 @@ Run command ./helloworld.py and you will see the output:
 Hello Python world!
 Welcome you in Python world! :) 
 
-Important : Never forget to add this line at top : #!/usr/bin/python -tt . It use python interprator to execute this file.
+Important : Never forget to add this line at top : #!/usr/bin/python -tt .It plays a role if the script is executable, and called without the preceding language. The script then calls the language's interpreter to run the code inside the script
 ------------------------------OUTPUT END--------------------------------
