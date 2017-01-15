@@ -10,7 +10,7 @@ def main():
 def printhello():
 	print '-' * 30 + 'OUTPUT START' + '-' * 30
 	print 'Hello Python world!'
-	print 'Welcome VK Hooda in Python world! :) \n'
+	print 'Welcome you in Python world! :) \n'
 	print 'Important : Never forget to add this line at top : #!/usr/bin/python -tt . It use python interprator to execute this file.'
 	print '-' * 30 + 'OUTPUT END' + '-' * 30
 
