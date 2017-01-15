@@ -2,7 +2,7 @@
 
 ''' Print hello world and python world welcome you
 @author vk hooda
-@create 01/14/2017'''
+@created 01/14/2017'''
 
 def main():
      printhello()
